@@ -22,6 +22,7 @@ I may best fit into `Front-end developer`, `UI/UX designer` and `Product designe
   - `Typescript`
   - `React`
   - `Redux / localStorage`
+  - `RTL / Jest`
 - Other
   - `Git`
   - `Jira`
