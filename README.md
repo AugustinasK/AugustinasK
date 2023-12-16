@@ -27,11 +27,11 @@ I may best fit into `Front-end developer`, `UI/UX designer` and `Product designe
   - `Jira`
   - `cmd`
 
-### Also I've know a thing or two about:
-> `Wordpress`, `Php`, `MySql`, `Chrome extensions`,<br>
-> `Game development / Unity / C#`,<br>
-> `Logo / icons / print design`, `Animation`, `Shader design`, `3D modelling / Blender`, `Photography`, `Drawing`<br>
-> `Arduino / IoT`, `ML / AI`<br>
+### Also I know a thing or two about:
+- `Wordpress`, `Php`, `MySql`, `Chrome extensions`,<br>
+- `Game development / Unity / C#`,<br>
+- `Logo / icons / print design`, `Animation`, `Shader design`, `3D modelling / Blender`, `Photography`, `Drawing`<br>
+- `Arduino / IoT`, `ML / AI`<br>
 
 <details>
   <summary>🎖️ Work experience</summary>
