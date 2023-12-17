@@ -97,17 +97,6 @@ English: Working proficiency
 ```
 </details>
 
-<details>
-  <summary>+ and -</summary>
-
-```
-- Due to my dual interest on design and development I may miss the "hardcore" parts / edge cases of some specific technology. But hey, I know how to google things out and I'm always eager to learn more on the topic I'm working on. The positive side of this is that I think more on user experience when I code and I think about development when I design.
-- I build things more than showcase and brag about these things.
-- I tend to go into the flow state when the task/vision is clear.
-- I can't thrive when micromanaged, but I also seek answers when something is not clear.
-```
-</details>
-
 <br>
 
 More about me on:
