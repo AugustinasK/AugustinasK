@@ -104,4 +104,5 @@ More about me on:
 - [Personal website / portfolio](www.workshopai.lt) (currently a bit outdated)
 
 <br>
+If I don't know something - that doesn't mean I don't know how to google or read documentation 🤓<br>
 Let's connect and create something amazing together! 🚀
