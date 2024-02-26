@@ -101,7 +101,7 @@ English: Working proficiency
 
 More about me on:
 - [LinkedIn](https://www.linkedin.com/in/augustinas-keturakis/)
-- [Personal website / portfolio](www.workshopai.lt) (currently a bit outdated)
+- [Personal website / portfolio](http://www.workshopai.lt) (currently a bit outdated)
 
 <br>
 If I don't know something - that doesn't mean I don't know how to google or read documentation 🤓<br>
